@@ -2,5 +2,5 @@ github.com/aaronland/go-roster v1.0.0 h1:FRDGrTqsYySKjWnAhbBGXyeGlI/o5/t9FZYCbUm
 github.com/aaronland/go-roster v1.0.0/go.mod h1:KIsYZgrJlAsyb9LsXSCvlqvbcCBVjCSqcQiZx42i9ro=
 github.com/aaronland/go-sqlite/v2 v2.2.0 h1:Efase4L+f5LgWYEHiA/dUwEuNzJgJdjOVElHMvGEZRw=
 github.com/aaronland/go-sqlite/v2 v2.2.0/go.mod h1:CI0V49+b2LZvf27tSFPJ9jw6F594gHxrtVt+OdMT3TU=
-github.com/mattn/go-sqlite3 v1.14.17 h1:mCRHCLDUBXgpKAqIKsaAaAsrAlbkeomtRFKXh2L6YIM=
-github.com/mattn/go-sqlite3 v1.14.17/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
+github.com/mattn/go-sqlite3 v1.14.22 h1:2gZY6PC6kBnID23Tichd1K+Z0oS6nE/XwU+Vz/5o4kU=
+github.com/mattn/go-sqlite3 v1.14.22/go.mod h1:Uh1q+B4BYcTPb+yiD3kU8Ct7aC0hY9fxUwlHK0RXw+Y=
